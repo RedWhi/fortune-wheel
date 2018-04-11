@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="93px" viewBox="0 0 72 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Label</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Label" fill-rule="nonzero">
+            <path d="M60.7794063,50.5 L34.5794063,91.8 C33.8794063,92.9 32.1794063,92.9 31.4794063,91.8 L5.1794063,50.5 C-8.7205937,28.6 6.9794063,0 32.9794063,0 C58.8794063,0 74.6794063,28.6 60.7794063,50.5 Z" id="XMLID_248_" fill="#E33760"></path>
+            <path d="M32.7,6 C14.7,6 1.6,19.8 0,35.5 C0.5,40.3 2.1,45.1 5,49.7 L31.2,91 C31.9,92.1 33.6,92.1 34.3,91 L60.5,49.7 C63.4,45.2 65,40.3 65.5,35.5 C63.8,19.7 50.7,6 32.7,6 Z" id="XMLID_960_" fill="#C51F3F"></path>
+            <path d="M58.2,11 C67,21.3 69.4,36.9 61,50.1 L39,84.7 L43.4,90.3 C44.2,91.4 45.9,91.2 46.5,90 L68.3,46.2 C70.7,41.4 71.8,36.4 71.8,31.6 C70.2,23.2 65.2,15.8 58.2,11 Z" id="XMLID_963_" fill="#8C8C8C" opacity="0.3"></path>
+        </g>
+    </g>
+</svg>
